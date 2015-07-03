@@ -4,7 +4,7 @@ type-is [![Build Status](https://travis-ci.org/faizalpribadi/type-is.svg?branch=
 install
 =======
 
-`$ npm install type-is --save`
+`$ npm install is-types --save`
 
 usage
 =====
