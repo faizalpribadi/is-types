@@ -1,4 +1,4 @@
-type-is
+type-is [![Build Status](https://travis-ci.org/faizalpribadi/type-is.svg?branch=master)](https://travis-ci.org/faizalpribadi/type-is)
 =======
 
 install
