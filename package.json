@@ -1,0 +1,25 @@
+{
+  "name": "type-is",
+  "version": "0.1.0",
+  "description": "Check of variable data type",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faizalpribadi/type-is.git"
+  },
+  "keywords": [
+    "type",
+    "check",
+    "variable",
+    "data"
+  ],
+  "author": "Faizal Pribadi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/faizalpribadi/type-is/issues"
+  },
+  "homepage": "https://github.com/faizalpribadi/type-is#readme"
+}
