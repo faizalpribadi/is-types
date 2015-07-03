@@ -10,15 +10,18 @@ usage
 =====
 
 ```js
-    var type = require('type-is');
+var type = require('type-is');
     
-    console.log(type.is('string'));
+console.log(type.is('string'));
+`[object String]`
 
-    console.log(type.is(100));
+console.log(type.is(100));
+`[object Number]`
 
-    console.log(type.is(true));
+console.log(type.is(true));
+`[object Boolean]`
 
-    var fn;
-
-    console.log(type.is(fn));
+var fn;
+console.log(type.is(fn));
+`[object Undefined]`
 ```
