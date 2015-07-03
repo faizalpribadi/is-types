@@ -1,4 +1,4 @@
-type-is [![Build Status](https://travis-ci.org/faizalpribadi/type-is.svg?branch=master)](https://travis-ci.org/faizalpribadi/type-is)
+is-types [![Build Status](https://travis-ci.org/faizalpribadi/is-types.svg?branch=master)](https://travis-ci.org/faizalpribadi/is-types)
 =======
 
 install
@@ -10,7 +10,7 @@ usage
 =====
 
 ```js
-var type = require('type-is');
+var type = require('is-types');
     
 console.log(type.is('string'));
 `[object String]`
